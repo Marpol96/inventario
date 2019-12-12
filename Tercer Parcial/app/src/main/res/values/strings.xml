@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Control De Inventario</string>
+    <string name="Prod">Productos</string>
+    <string name="producto">Nombre Del Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="Precio">Precio</string>
+    <string name="fecha_Vencimiento">Fecha Vencimiento</string>
+
+    <string name="nom">Nombre</string>
+    <string name="cant">0</string>
+    <string name="pre">0.00</string>
+    <string name="fec">00/00/00</string>
+</resources>
